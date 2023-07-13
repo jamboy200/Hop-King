@@ -1,0 +1,17 @@
+D:\ALL_Projects\godot4\Hop King\.godot\mono\temp\bin\Debug\Hop King.deps.json
+D:\ALL_Projects\godot4\Hop King\.godot\mono\temp\bin\Debug\Hop King.runtimeconfig.json
+D:\ALL_Projects\godot4\Hop King\.godot\mono\temp\bin\Debug\Hop King.dll
+D:\ALL_Projects\godot4\Hop King\.godot\mono\temp\bin\Debug\Hop King.pdb
+D:\ALL_Projects\godot4\Hop King\.godot\mono\temp\bin\Debug\GodotSharp.dll
+D:\ALL_Projects\godot4\Hop King\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+D:\ALL_Projects\godot4\Hop King\.godot\mono\temp\obj\Debug\Hop King.csproj.AssemblyReference.cache
+D:\ALL_Projects\godot4\Hop King\.godot\mono\temp\obj\Debug\Hop King.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALL_Projects\godot4\Hop King\.godot\mono\temp\obj\Debug\Hop King.AssemblyInfoInputs.cache
+D:\ALL_Projects\godot4\Hop King\.godot\mono\temp\obj\Debug\Hop King.AssemblyInfo.cs
+D:\ALL_Projects\godot4\Hop King\.godot\mono\temp\obj\Debug\Hop King.csproj.CoreCompileInputs.cache
+D:\ALL_Projects\godot4\Hop King\.godot\mono\temp\obj\Debug\Hop King.csproj.CopyComplete
+D:\ALL_Projects\godot4\Hop King\.godot\mono\temp\obj\Debug\Hop King.dll
+D:\ALL_Projects\godot4\Hop King\.godot\mono\temp\obj\Debug\refint\Hop King.dll
+D:\ALL_Projects\godot4\Hop King\.godot\mono\temp\obj\Debug\Hop King.pdb
+D:\ALL_Projects\godot4\Hop King\.godot\mono\temp\obj\Debug\Hop King.genruntimeconfig.cache
+D:\ALL_Projects\godot4\Hop King\.godot\mono\temp\obj\Debug\ref\Hop King.dll

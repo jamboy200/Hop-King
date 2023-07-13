@@ -1,0 +1,11 @@
+[gd_resource type="Resource" load_steps=2 format=3 uid="uid://rpm0y583rxjv"]
+
+[ext_resource type="Script" path="res://Code/ToadRes.cs" id="1_t6j50"]
+
+[resource]
+script = ExtResource("1_t6j50")
+JumpForce = 1000.0
+Gravity = 980.0
+HorizentalSpeed = 300.0
+Friction = 1.0
+HorizentalSpeedAir = 600.0

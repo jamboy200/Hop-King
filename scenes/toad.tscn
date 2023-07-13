@@ -1,0 +1,27 @@
+[gd_scene load_steps=5 format=3 uid="uid://1r7fs4vftbfh"]
+
+[ext_resource type="Script" path="res://Code/Toad.cs" id="1_ipks8"]
+[ext_resource type="Texture2D" uid="uid://04uibfdfcnru" path="res://icon.svg" id="1_jmhkq"]
+[ext_resource type="Resource" uid="uid://rpm0y583rxjv" path="res://resources/ToadRes.tres" id="2_h67xh"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_3bkhy"]
+size = Vector2(125, 123)
+
+[node name="Toad" type="CharacterBody2D"]
+script = ExtResource("1_ipks8")
+res = ExtResource("2_h67xh")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_jmhkq")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0.5, 0.5)
+shape = SubResource("RectangleShape2D_3bkhy")
+
+[node name="left" type="RayCast2D" parent="."]
+position = Vector2(-19, 0)
+target_position = Vector2(-68, 0)
+
+[node name="right" type="RayCast2D" parent="."]
+position = Vector2(38, 1)
+target_position = Vector2(45, -1)

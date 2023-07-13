@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MwejNZ4JS5f09NO3ZC0UZO7QKUuKA7O0tLbQ8FA/Bca6p+WpA9YkCxglTFq2+P7Z54NAjhb3DySsoFrXfunEfw==",
+  "success": true,
+  "projectFilePath": "D:\\ALL_Projects\\godot4\\Hop King\\Hop King.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohamed Rida\\.nuget\\packages\\godot.sourcegenerators\\4.1.0\\godot.sourcegenerators.4.1.0.nupkg.sha512",
+    "C:\\Users\\Mohamed Rida\\.nuget\\packages\\godotsharp\\4.1.0\\godotsharp.4.1.0.nupkg.sha512",
+    "C:\\Users\\Mohamed Rida\\.nuget\\packages\\godotsharpeditor\\4.1.0\\godotsharpeditor.4.1.0.nupkg.sha512",
+    "C:\\Users\\Mohamed Rida\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Mohamed Rida\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Mohamed Rida\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

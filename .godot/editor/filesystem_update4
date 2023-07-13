@@ -1,0 +1,14 @@
+res://scenes/test.tscn
+res://Code/ToadRes.cs
+res://Code/scenes/test.tscn
+res://Code/StateBase.cs
+res://Code/StateMachine.cs
+res://Code/Toad.cs
+res://Code/Idel.cs
+res://Code/Jump.cs
+res://Code/Jumping.cs
+res://Code/PreJump.cs
+res://Code/WalkGround.cs
+res://resources/ToadRes.tres
+res://scenes/obstacle.tscn
+res://scenes/toad.tscn

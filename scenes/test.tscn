@@ -1,0 +1,27 @@
+[gd_scene load_steps=3 format=3 uid="uid://cxk7anmssn5dx"]
+
+[ext_resource type="PackedScene" uid="uid://dixjjxgaesa1k" path="res://scenes/obstacle.tscn" id="1_5xrpn"]
+[ext_resource type="PackedScene" uid="uid://1r7fs4vftbfh" path="res://scenes/toad.tscn" id="2_ol8iu"]
+
+[node name="test" type="Node2D"]
+
+[node name="Obstacle" parent="." instance=ExtResource("1_5xrpn")]
+position = Vector2(320, 568)
+scale = Vector2(8.72, 1)
+
+[node name="Obstacle2" parent="." instance=ExtResource("1_5xrpn")]
+position = Vector2(64, 319)
+rotation = 1.56177
+scale = Vector2(8.72, 1)
+
+[node name="Obstacle3" parent="." instance=ExtResource("1_5xrpn")]
+position = Vector2(717, 379)
+rotation = 1.57243
+scale = Vector2(8.72, 1)
+
+[node name="Toad" parent="." instance=ExtResource("2_ol8iu")]
+position = Vector2(478, 108)
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2(494, 320)
+zoom = Vector2(0.5, 0.5)
